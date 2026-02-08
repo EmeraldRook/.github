@@ -1,17 +1,21 @@
-# Thrinkers
+# Emerald Rook — Tagline Options
 
-**Thrinkers** is a modern innovation-driven company focused on turning complex ideas into scalable, high-impact solutions.
+## Playing on Rarity
+- Rarer than diamonds. Sharper than the rest.
+- Rare by design.
+- Uncommon by nature. Exceptional by design.
 
-## What We Do
+## Playing on Chess/Strategy
+- The smartest piece in play.
+- Every move, calculated.
+- Your most valuable move.
 
-We blend **strategic thinking**, **engineering**, and **creative problem-solving** to build products, systems, and brands that move fast and work reliably.
+## Combining Both
+- Rare strategy. Real impact.
+- Think rare. Move sharp.
+- The rarest advantage.
 
-## Our Philosophy
-
-* Think deeply, build simply
-* Design with purpose
-* Progress through iteration
-
----
-
-*Think. Build. Launch.*
+## Short & Punchy
+- Built for the bold move.
+- Precision over everything.
+- Where value meets vision.
